@@ -1,5 +1,5 @@
 # VelibProject
-Java student project that simulates a Bike rental system
+Java student project which simulates a Bike rental system
 
 General Information: The project was part of a “Software Design with UML” class during my Erasmus semester in France. The focus was on the creation of a class concept with UML and the implementation of the basic functions.
 
